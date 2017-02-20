@@ -1,0 +1,38 @@
+Shielded interrupt4Initialization   				//MY_NVIC_Init(1,0,TIM4_IRQn);
+2£¬revise    void TIM2_IRQHandler(void)
+
+revise  led.c    326       void clr_screen()
+
+
+led.c    line3740
+shielded display part of the interrupt  void TIM2_IRQHandler(void)
+shielded TIM2 interrupt
+stmlib.c			line408
+void NVIC_Configuration(void) 		
+
+
+0821		void LEDPowerLow(void)     revise
+
+
+main   line375  Shielded soft reset
+
+// 			SoftReset();//*((u32 *)0xE000ED0C) = 0x05fa0004;			//reset
+// 			
+// 			while(1);
+
+Serial interrupt receive command location£º  led.c   line3389
+void USART1_IRQHandler(void)   
+
+
+ZX40
+
+16-12-17
+
+Manual Switch machine no longer store
+starting up display version number
+
+17.02.14
+Modify display version delay
+Random pattern		OK
+led.c   747ÐÐ //hb.flag=1;      //lace mark 		Forbidden lace
+
