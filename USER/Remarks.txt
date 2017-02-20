@@ -36,3 +36,4 @@ Modify display version delay
 Random pattern		OK
 led.c   747ÐÐ //hb.flag=1;      //lace mark 		Forbidden lace
 
+123
